@@ -1,5 +1,3 @@
 This is a new file.
 
-Adding a line via the web interface.
-
 Adding a line via my PC.
